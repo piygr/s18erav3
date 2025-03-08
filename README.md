@@ -62,6 +62,9 @@ TrainOutput(global_step=500, training_loss=11.38444842529297, metrics={'train_ru
 ```
 
 ## Sample Outputs
+
+<img width="1433" alt="Screenshot 2025-03-08 at 6 39 24 PM" src="https://github.com/user-attachments/assets/01b1fbd8-4430-4c2a-a879-3b73c3dc1c3f" />
+
 ```
 prompt = "\n\n### User:\nWhat was the role of indian revolutionaries in indian independence movement ?\n\n### Assistant:\n"
 Output:
