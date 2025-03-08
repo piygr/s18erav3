@@ -1,4 +1,4 @@
-# AI Assistant - S27ERAV1
+# AI Assistant - S18ERAv3
 ### Phi 2 Model (with 2 Billion parameters) fine-tuned using [OpenAssistant/oasst1 dataset](https://huggingface.co/datasets/OpenAssistant/oasst1)
 
 [Link to huggingface space App](https://huggingface.co/spaces/piyushgrover/ChatAssistant-S18ERAv3)
